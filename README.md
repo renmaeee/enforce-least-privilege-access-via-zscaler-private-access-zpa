@@ -1,0 +1,2 @@
+# enforce-least-privilege-access-via-zscaler-private-access-zpa
+This capstone project addresses the escalating challenges faced by modern enterprises in securing remote access, moving beyond the limitations of traditional perimeter-based and VPN-centric security models. These legacy approaches often lead to over-permissioned access, increased lateral movement risk, and an expanded attack surface, particularly i
