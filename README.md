@@ -6,7 +6,7 @@ Students will first conduct a comprehensive manual web application security asse
 
 The final stage focuses on designing a robust Zero Trust Network Access (ZTNA) solution using Zscaler Private Access (ZPA). This theoretical design will cover architectural components, integration with identity providers, granular policy enforcement, and a strategic deployment roadmap, demonstrating a deep understanding of modern, identity-driven security architectures. The project culminates in a comprehensive set of reports and a design blueprint, showcasing industry-ready security skills.
 
-**Status:** planning
+**Status:** review
 **Domain:** Education Technology
 **Progress:** 0%
 
